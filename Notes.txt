@@ -1,0 +1,8 @@
+Understanding of clustering we using for the learning of ANNOVA.
+Dimension reduction:
+It's neither supervised nor unsupervised. Analogy: It's like planet pluto, some called it planet and some not.
+Data is not lost but reduced. For computational ease, face recognition and image compression.
+PCA(Principal component analysis):
+PCA helps in identify relation b/w columns
+From the data we derive information. And try and reduce the information.
+
